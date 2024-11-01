@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoSharp", "PoSharp\PoSharp.csproj", "{F40C5A9A-CC5A-4D92-9B86-52C719825308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoSharp.Tests", "PoSharp.Tests\PoSharp.Tests.csproj", "{3549CC70-4AB3-4347-9FED-7DF907345888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoSharp.Console", "PoSharp.Console\PoSharp.Console.csproj", "{F55FC20C-999A-4D39-B789-60A25B9F407D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40C5A9A-CC5A-4D92-9B86-52C719825308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40C5A9A-CC5A-4D92-9B86-52C719825308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40C5A9A-CC5A-4D92-9B86-52C719825308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40C5A9A-CC5A-4D92-9B86-52C719825308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3549CC70-4AB3-4347-9FED-7DF907345888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3549CC70-4AB3-4347-9FED-7DF907345888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3549CC70-4AB3-4347-9FED-7DF907345888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3549CC70-4AB3-4347-9FED-7DF907345888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55FC20C-999A-4D39-B789-60A25B9F407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55FC20C-999A-4D39-B789-60A25B9F407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55FC20C-999A-4D39-B789-60A25B9F407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55FC20C-999A-4D39-B789-60A25B9F407D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
